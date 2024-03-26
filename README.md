@@ -63,7 +63,9 @@ The datasets used for analysis are located in the `data/` directory. The columns
 ## Results
 
 The analysis revealed insights into discount events, their impact on revenue, and strategies for optimizing pricing to influence customer buying behavior. Additionally, customer segmentation based on purchasing behavior and detection of outliers in sales data were performed.
-![The graph of Growth Rate](1.png) 
+
+
+![The graph of Growth Rate](C:\Users\HolarTech\Documents\my documents\DATASETS\sales forcast\Sales retails\1.png) 
 ![Impact of discount](discount_impact.png)
 ![Discount Distribution](discount_distribution.png) 
 ![Top Ten Country](top_ten_country.png)
